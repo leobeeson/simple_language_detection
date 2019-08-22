@@ -2,9 +2,9 @@
 Calls cld3 to detect languages of all pdf/text files in a folder.
 
 GOOD TO HAVE:
-0) Have R installed (ver > 3.5)
-0) Run in console: install.packages("pacman")
-N.B.: If you don't install pacman before running the r file, run the r file twice (the first time will produce an error, the second time it'll work).
+- Have R installed (ver > 3.5)
+- Run in console: install.packages("pacman")
+- N.B.: If you don't install pacman before running the r file, run the r file twice (the first time will produce an error, the second time it'll work).
 
 For detecting most representative language:
 
